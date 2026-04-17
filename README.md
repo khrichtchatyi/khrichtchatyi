@@ -110,7 +110,7 @@ This isn't just my day job. I am a passionate software developer continually see
 
 ### 📈 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkhrichtchatyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khrichtchatyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [stackoverflow]: https://stackoverflow.com/users/2149406/max-khrichtchatyi
 [github]: https://github.com/maxkhrichtchatyi
