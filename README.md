@@ -1,11 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Max Khrichtchatyi
 
-<img src="https://github.com/maxkhrichtchatyi/maxkhrichtchatyi/blob/main/me_and_computer_286.jpeg?raw=true" width="400px" height="400px"> 
+<img src="https://github.com/khrichtchatyi/khrichtchatyi/blob/main/me_and_computer_286.jpeg?raw=true" width="400px" height="400px"> 
 
 :point_up_2: *Me (5 years old) and a Computer*
 
 
-I was born and grew up in Alma-Ata, USSR *(now Qazaqstan)*. From the age of 15, I began programming, working on simpler projects, and never stopped coding since then. I graduated from International IT University and currently I work as a Senior Software Engineer for an IT company. 
+I was born and grew up in Alma-Ata, USSR *(now Kazakhstan)*. From the age of 15, I began programming, working on simpler projects, and never stopped coding since then. I graduated from International IT University and currently I work as a Senior Software Engineer for an IT company. 
 
 This isn't just my day job. I am a passionate software developer continually seeking to learn and grow. My experience, natural talents, and hard work combine to deliver creative solutions to hard problems.
 
@@ -100,21 +100,21 @@ This isn't just my day job. I am a passionate software developer continually see
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/maxkhrichtchatyi][stackoverflow]
-- GitHub: [github.com/maxkhrichtchatyi][github]
-- LinkedIn: [linkedin.com/in/maxkhrichtchatyi/][linkedin]
-- Personal site: [maxkhrichtchatyi.com][site]
-- Twitter: [twitter.com/mkhrichtchatyi][twitter]
-- Instagram: [instagram.com/maxkhrichtchatyi][instagram]
+- StackOverflow: [stackoverflow.com/khrichtchatyi][stackoverflow]
+- GitHub: [github.com/khrichtchatyi][github]
+- LinkedIn: [linkedin.com/in/khrichtchatyi/][linkedin]
+- Personal site: [khrichtchatyi.com][site]
+- Twitter: [twitter.com/khrichtchatyi][twitter]
+- Instagram: [instagram.com/khrichtchatyi][instagram]
 - E-mail: maxim.khrichtchatyi@gmail.com *(Looking for my Resume? E-Mail me!)*
 
 ### 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khrichtchatyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[stackoverflow]: https://stackoverflow.com/users/2149406/max-khrichtchatyi
-[github]: https://github.com/maxkhrichtchatyi
-[site]: https://maxkhrichtchatyi.com
-[twitter]: https://twitter.com/mkhrichtchatyi
-[linkedin]: https://www.linkedin.com/in/maxkhrichtchatyi
-[instagram]: https:/instagram.com/maxkhrichtchatyi/
+[stackoverflow]: https://stackoverflow.com/users/2149406/
+[github]: https://github.com/khrichtchatyi
+[site]: https://khrichtchatyi.com
+[twitter]: https://twitter.com/khrichtchatyi
+[linkedin]: https://www.linkedin.com/in/khrichtchatyi
+[instagram]: https:/instagram.com/khrichtchatyi/
